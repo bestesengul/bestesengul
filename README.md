@@ -38,12 +38,12 @@ I'm also interested in
 
 <div align="center">
     <a href="https://github.com/bestesengul/House Price Prediction Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" width="270"/>
   </a>
   <a href="https://github.com/bestesengul/Algorithme-Blowfish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" width="270"/>
   </a>
   <a href="https://github.com/bestesengul/Otizm-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" width="270"/>
   </a>
 </div>
