@@ -29,7 +29,7 @@ I'm also interested in
 
 <div align="center">
   <a href="https://github.com/bestesengul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestesengul&layout=compact&theme=aura" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestesengul&layout=compact&theme=aura" height="80.994"/>
   </a>
 
 </div>
