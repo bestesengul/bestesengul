@@ -39,10 +39,10 @@ I'm also interested in
 <br>
 
 <div align="center">
-  <a href="https://github.com/bestesengul/Algorithme de Chiffrement Blowfish">
+  <a href="https://github.com/bestesengul/Algorithme-Blowfish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" height="120"/>
   </a>
-  <a href="https://github.com/bestesengul/Game developed for inclusive class students with Autism Spectrum Disorder">
+  <a href="https://github.com/bestesengul/Otizm-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" height="120"/>
   </a>
 </div>
