@@ -31,8 +31,18 @@ I'm also interested in
   <a href="https://github.com/bestesengul">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestesengul&layout=compact&theme=aura" height="120"/>
   </a>
-  <a href="https://github.com/bestesengul/Freshman_Year_Project_House_Price_Prediction">
+  <a href="https://github.com/bestesengul/House Price Prediction Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" height="120"/>
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/bestesengul/Algorithme de Chiffrement Blowfish">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" height="120"/>
+  </a>
+  <a href="https://github.com/bestesengul/Game developed for inclusive class students with Autism Spectrum Disorder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" height="120"/>
+  </a>
+</div>
