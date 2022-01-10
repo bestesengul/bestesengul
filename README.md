@@ -31,18 +31,19 @@ I'm also interested in
   <a href="https://github.com/bestesengul">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestesengul&layout=compact&theme=aura" height="120"/>
   </a>
-  <a href="https://github.com/bestesengul/House Price Prediction Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" height="120"/>
-  </a>
+
 </div>
 
 <br>
 
 <div align="center">
+    <a href="https://github.com/bestesengul/House Price Prediction Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" width="300"/>
+  </a>
   <a href="https://github.com/bestesengul/Algorithme-Blowfish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" width="300"/>
   </a>
   <a href="https://github.com/bestesengul/Otizm-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" height="120"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" width="300"/>
   </a>
 </div>
