@@ -46,4 +46,7 @@ I'm also interested in
   <a href="https://github.com/bestesengul/Otizm-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" width="270"/>
   </a>
+  <a href="https://github.com/bestesengul/AutismSpectrumDisorderProject-ScienceExperiment1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Otizm-Project&layout=compact&theme=aura" width="270"/>
+  </a>
 </div>
