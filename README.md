@@ -40,8 +40,8 @@ I'm also interested in
   <a href="https://github.com/bestesengul/House Price Prediction Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" width="350"/>
   </a>
-  <a href="https://github.com/bestesengul/AutismSpectrumDisorderProject-ScienceExperiment1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=AutismSpectrumDisorderProject-ScienceExperiment1&layout=compact&theme=aura" width="350"/>
+  <a href="https://github.com/bestesengul/AutismSpectrumDisorderProject-ScienceExperiment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=AutismSpectrumDisorderProject-ScienceExperiment&layout=compact&theme=aura" width="350"/>
   </a>
   <a href="https://github.com/bestesengul/Algorithme-Blowfish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" width="350"/>
