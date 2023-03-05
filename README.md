@@ -40,6 +40,9 @@ I'm also interested in
   <a href="https://github.com/TeamTrainee/auto-data-preprocessing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamTrainee&repo=auto-data-preprocessing&layout=compact&theme=aura" width="350"/>
   </a>
+  <a href="https://github.com/Project-Daliware/daliware">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Project-Daliware&repo=daliware&layout=compact&theme=aura" width="350"/>
+  </a>
   <a href="https://github.com/bestesengul/House Price Prediction Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Freshman_Year_Project_House_Price_Prediction&layout=compact&theme=aura" width="350"/>
   </a>
