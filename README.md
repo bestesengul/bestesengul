@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Beste, a sophomore student at Galatasaray University. I'm currently working on
+I'm Beste, a senior student at Galatasaray University. I'm currently working on
   - Algorithms & Data Structures
   - Data Science
-  - Game Development with Unity
+  - Artificial Intelligence & Machine Learning
+  - Prompt Engineering
+  - Cloud Computing
 
 I'm also interested in
-  - Artificial Intelligence & Machine Learning
+  - Game Development with Unity
   - Blockchain Technology
-  - Cloud Computing
+  - Quantum Computing
   
 <br>
 
