@@ -30,9 +30,9 @@ I'm also interested in
 <br>
 
 <div align="center">
-  <a href="https://github.com/bestesengul">
+  <!-- <a href="https://github.com/bestesengul">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestesengul&layout=compact&theme=aura" width="400"/>
-  </a>
+  </a> -->
 
 </div>
 
@@ -40,7 +40,7 @@ I'm also interested in
 
 
 <div align="center">
-  <a href="https://github.com/TeamTrainee/auto-data-preprocessing">
+  <!-- <a href="https://github.com/TeamTrainee/auto-data-preprocessing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeamTrainee&repo=auto-data-preprocessing&layout=compact&theme=aura" width="350"/>
   </a>
   <a href="https://github.com/BBF-Chat-App/BBF-Chat-App">
@@ -58,7 +58,7 @@ I'm also interested in
   <a href="https://github.com/bestesengul/Algorithme-Blowfish">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bestesengul&repo=Algorithme-Blowfish&layout=compact&theme=aura" width="350"/>
   </a>
-  </a>
+  </a> -->
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bestesengul/bestesengul/blob/output/github-contribution-grid-snake-dark.svg" />
