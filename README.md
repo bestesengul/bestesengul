@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Beste, a senior student at Galatasaray University. I'm currently working on
+I'm Beste, a master's degree student at TUM. I'm currently working on
   - Algorithms & Data Structures
   - Data Science
   - Artificial Intelligence & Machine Learning
-  - Prompt Engineering
-  - Cloud Computing
+  - Agentic AI & Prompt Engineering
 
 I'm also interested in
-  - Game Development with Unity
   - Blockchain Technology
   - Quantum Computing
   
